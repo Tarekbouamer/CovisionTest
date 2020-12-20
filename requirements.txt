@@ -1,0 +1,9 @@
+pillow<7.0
+numpy
+Cython
+torchvision==0.3
+tqdm
+scikit-image
+scikit-learn 
+tensorboardX
+torch==1.1
